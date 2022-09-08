@@ -39,3 +39,11 @@ Page with the list of finished readings and favourites.
 ### _logout.php_
 
 Page that logut the account.
+
+## Database
+
+The database presents three tabs:
+- letture
+- libri
+- utenti
+
