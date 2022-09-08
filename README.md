@@ -47,3 +47,20 @@ The database presents three tabs:
 - libri
 - utenti
 
+### _letture_
+
+| codice | utente | inizio | fine | preferiti |
+|-|-|-|-|-|
+| Book code | Username | Reading start date | Reading end date | Boolean: `1` favourite; `0` not favourite |
+
+### _libri_
+
+| codice | titolo | autore | genere | posizione |
+|-|-|-|-|-|
+| Book code | Book's title | Book's author | Book's genre | Place to find the book |
+
+### _utenti_
+
+| username | password | nome | cognome |
+|-|-|-|-|-|
+| Account username  | Account password | Name | Surname |
