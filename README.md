@@ -62,5 +62,5 @@ The database presents three tabs:
 ### _utenti_
 
 | username | password | nome | cognome |
-|-|-|-|-|-|
+|-|-|-|-|
 | Account username  | Account password | Name | Surname |
