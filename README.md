@@ -34,4 +34,8 @@ Page with the list of readings in progress.
 
 ## _letture3.php_
 
-Page with the list of finished readings.
+Page with the list of finished readings and favourites.
+
+## _logout.php_
+
+Page that logut the account.
