@@ -22,4 +22,15 @@ Page with the form to add a new book at the list.
 
 ## _letture.php_
 
-Introduction page to the reading section with three buttons relative to the three subsection: `Begin reading`, `Readings in progress` and `reading list`.
+Introductory page to the reading section with three buttons relating to the three subsection: `Begin reading`, `Readings in progress` and `List of readings`.
+
+## _letture1.php_
+
+
+
+## _letture2.php_
+
+
+
+## _letture3.php_
+
