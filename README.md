@@ -26,11 +26,12 @@ Introductory page to the reading section with three buttons relating to the thre
 
 ## _letture1.php_
 
-
+Page with the form to start a new reading.
 
 ## _letture2.php_
 
-
+Page with the list of readings in progress.
 
 ## _letture3.php_
 
+Page with the list of finished readings.
