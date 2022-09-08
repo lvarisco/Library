@@ -4,16 +4,16 @@ PHP programme for organize the home library with the possibility to create a lis
 # File
 PHP files present in the directory.
 
-## index.php
+## _index.php_
 
 Page with the login form.
 
-## regitrazione.php
+## _regitrazione.php_
 
 Page with the sign up form.
 
-## home.php
+## _home.php_
 
 Page with the list of owned books with the relative information such as the author and the genre. There are three buttons to sort the list by title, author or genre.
 
-## aggiungi.php
+## _aggiungi.php_
